@@ -210,15 +210,7 @@ git commit -m "chore: activate Git LFS for model weights"
 
 Data geomagnetik milik **BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)**.
 
-```bibtex
-@phdthesis{penulis2026ews,
-  title  = {Optimasi Sistem Peringatan Dini Gempa Bumi
-            Berbasis Deep Learning pada Data Geomagnetik},
-  author = {Nama Penulis},
-  year   = {2026},
-  school = {Universitas ...}
-}
-```
+
 
 ---
 
@@ -226,6 +218,6 @@ Data geomagnetik milik **BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)**.
 
 **— Akhir README —**
 
-*Repositori ini disusun sebagai lampiran bukti disertasi doktoral.*
+*Repositori ini disusun sebagai lampiran bukti penelitian.*
 
 </div>
