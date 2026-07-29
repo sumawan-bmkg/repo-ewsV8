@@ -1,0 +1,50 @@
+{
+  "A_Baseline_(Mentah)": {
+    "threshold": 0.005,
+    "recall": 0.1289,
+    "precision": 0.971,
+    "f2_score": 0.1559,
+    "fpr": 0.2292,
+    "fnr": 0.8711,
+    "tp": 368,
+    "fp": 11,
+    "tn": 37,
+    "fn": 2488,
+    "n_pos": 2856,
+    "n_neg": 48,
+    "mean_prob": 0.003326,
+    "std_prob": 0.001647
+  },
+  "B_Fase_1_(Temp._Scaling)": {
+    "threshold": 0.267,
+    "recall": 0.9006,
+    "precision": 0.9839,
+    "f2_score": 0.9161,
+    "fpr": 0.875,
+    "fnr": 0.0994,
+    "tp": 2572,
+    "fp": 42,
+    "tn": 6,
+    "fn": 284,
+    "n_pos": 2856,
+    "n_neg": 48,
+    "mean_prob": 0.284848,
+    "std_prob": 0.0145
+  },
+  "C_Fase_2/3_(Focal_Loss)": {
+    "threshold": 0.581,
+    "recall": 0.9146,
+    "precision": 0.9996,
+    "f2_score": 0.9304,
+    "fpr": 0.0208,
+    "fnr": 0.0854,
+    "tp": 2612,
+    "fp": 1,
+    "tn": 47,
+    "fn": 244,
+    "n_pos": 2856,
+    "n_neg": 48,
+    "mean_prob": 0.78686,
+    "std_prob": 0.157803
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "s1_detection": {
+    "TP": 211,
+    "TN": 48,
+    "FP": 0,
+    "FN": 2621,
+    "Precision": 1.0,
+    "Recall": 0.0745,
+    "F2": 1.2271,
+    "AUPRC": 0.9848,
+    "AUC_ROC": 0.464
+  },
+  "s23_quantification": {
+    "Az_MAE_Global_deg": 38.04,
+    "Az_MAE_Trimmed_deg": 38.04,
+    "Mag_MAE_Mw": 4.267,
+    "Dist_MAE_km": 1656.3,
+    "Depth_MAE_km": 58.9,
+    "n_dist_pairs": 2880,
+    "n_depth_pairs": 2880
+  },
+  "s4_physics": {
+    "n_pairs": 2832,
+    "median_strain_ratio": 0.0521,
+    "Spearman_rho_all": 0.0474,
+    "Spearman_p_all": 0.011725,
+    "Spearman_rho_TP": 0.0474,
+    "Spearman_p_TP": 0.011725,
+    "n_pairs_TP": 2832
+  },
+  "s5_leadtime": {
+    "mean_lead_days": -0.8218,
+    "median_lead_days": -0.8577,
+    "n_matched": 211,
+    "n_lead_values": 211
+  },
+  "info": {
+    "catalogue": "merge2026.csv",
+    "catalogue_events": 1351,
+    "catalogue_date_range": "2025-12-31 13:29:27.320498+00:00 to 2026-06-29 17:10:51.898376+00:00",
+    "predictions": 2880,
+    "stations": 24,
+    "date_range": "2026-01-01 to 2026-04-30",
+    "generated": "2026-07-27 16:18:59.225350"
+  }
+}

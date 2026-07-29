@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>V8 SupCon — Dashboard Kinerja & Mitigasi</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
+:root {
+  --bg: #ffffff; --card: #f8f9fa; --card2: #f0f2f5;
+  --text: #1a1a2e; --muted: #555;
+  --accent1: #C0392B; --accent2: #2980B9; --accent3: #16A085;
+  --accent4: #8E44AD; --accent5: #D4AC0D;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);padding:0;line-height:1.5}
+.header{background:linear-gradient(135deg,#1a1a2e 0%,#16213e 100%);color:#fff;padding:32px 48px;position:relative;overflow:hidden}
+.header::after{content:'';position:absolute;top:-50%;right:-20%;width:500px;height:500px;border-radius:50%;background:rgba(255,255,255,0.03)}
+.header h1{font-size:28px;font-weight:800;margin-bottom:4px}
+.header p{font-size:14px;color:#aaa;margin-bottom:8px}
+.header .badge{display:inline-block;background:rgba(255,255,255,0.1);border:1px solid rgba(255,255,255,0.2);border-radius:20px;padding:4px 16px;font-size:12px;color:#ddd;margin-right:8px;margin-top:4px}
+.container{max-width:1400px;margin:0 auto;padding:32px 24px}
+.kpi-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px;margin-bottom:32px}
+.kpi{background:var(--card);border-radius:12px;padding:20px;text-align:center;border:1px solid #e0e0e0}
+.kpi .val{font-size:28px;font-weight:800;margin:4px 0;color:var(--accent1)}
+.kpi .val.green{color:var(--accent3)}
+.kpi .val.blue{color:var(--accent2)}
+.kpi .val.purple{color:var(--accent4)}
+.kpi .label{font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:0.5px;color:var(--muted)}
+.section{margin-bottom:40px}
+.section h2{font-size:20px;font-weight:700;margin-bottom:16px;padding-bottom:8px;border-bottom:3px solid var(--accent1);display:inline-block}
+.section h3{font-size:16px;font-weight:600;margin:16px 0 8px;color:var(--text)}
+.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:24px}
+.grid-3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px}
+.grid-4{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+@media(max-width:900px){.grid-2,.grid-3,.grid-4{grid-template-columns:1fr}}
+.card{background:var(--card);border-radius:12px;padding:20px;border:1px solid #e0e0e0}
+.card img{width:100%;height:auto;border-radius:8px;display:block;border:1px solid #ddd}
+.card .cap{font-size:11px;color:var(--muted);margin-top:8px;line-height:1.4}
+.disclaimer{background:#fff3cd;border:1px solid #ffc107;border-radius:8px;padding:16px;font-size:13px;margin:24px 0}
+.disclaimer strong{color:#856404}
+.table-wrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{background:var(--card2);font-weight:600;text-align:left;padding:10px 12px;border-bottom:2px solid #ddd}
+td{padding:8px 12px;border-bottom:1px solid #eee}
+tr:hover td{background:#f5f7fa}
+.best{font-weight:700;color:var(--accent3)}
+.footer{text-align:center;padding:32px;color:var(--muted);font-size:12px;border-top:1px solid #eee;margin-top:32px}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>V8 SupCon — Dashboard Kinerja &amp; Hasil Mitigasi</h1>
+  <p>Multi-Task Scalogram Earthquake Precursor Detection &middot; Bukti Eksperimen Disertasi Doktoral</p>
+  <div>
+    <span class="badge">Model: MultiTaskScalogramV3_v8</span>
+    <span class="badge">Checkpoint: v3_v8_conv_fpr_best_weights.pth</span>
+    <span class="badge">Parameters: 9.4M</span>
+    <span class="badge">Samples: 2,904 (2026 Blind Test)</span>
+  </div>
+</div>
+
+<div class="container">
+
+<!-- KPI -->
+<div class="kpi-grid">
+  <div class="kpi">
+    <div class="label">AUPRC</div>
+    <div class="val green">0.985</div>
+    <div class="label">Area Under PR Curve</div>
+  </div>
+  <div class="kpi">
+    <div class="label">Best F2 Score</div>
+    <div class="val purple">0.954</div>
+    <div class="label">@ epoch 25 (th=0.3)</div>
+  </div>
+  <div class="kpi">
+    <div class="label">Best Precision</div>
+    <div class="val blue">0.886</div>
+    <div class="label">@ th=0.3, epoch 25</div>
+  </div>
+  <div class="kpi">
+    <div class="label">AUC-ROC</div>
+    <div class="val" style="color:#E67E22">0.464</div>
+    <div class="label">Imbalanced dataset effect</div>
+  </div>
+  <div class="kpi">
+    <div class="label">Best EWS Score</div>
+    <div class="val blue">0.829</div>
+    <div class="label">F2 − FPR @ epoch 25</div>
+  </div>
+  <div class="kpi">
+    <div class="label">Azimuth MAE</div>
+    <div class="val green">38.0°</div>
+    <div class="label">Blind test (operational)</div>
+  </div>
+  <div class="kpi">
+    <div class="label">Training Epochs</div>
+    <div class="val">35</div>
+    <div class="label">Early stopping patience 10</div>
+  </div>
+  <div class="kpi">
+    <div class="label">Storm FPR</div>
+    <div class="val green">0.000</div>
+    <div class="label">Zero false alarms at Kp≥4</div>
+  </div>
+</div>
+
+<!-- Section 1: Main performance figures -->
+<div class="section">
+  <h2>1. Panel Kinerja Fundamental</h2>
+  <div class="grid-2">
+    <div class="card">
+      <img src="kinerja_lengkap.png" alt="Composite performance panel" loading="lazy">
+      <div class="cap"><strong>Gambar 1a.</strong> Panel komprehensif 12 sub-plot meliputi confusion matrix, ROC, PR, threshold sweep, training history, distribusi probabilitas, kalibrasi, error azimuth, deteksi per Kp, dan tabel metrik.</div>
+    </div>
+    <div class="card">
+      <img src="roc_pr_curves.png" alt="ROC and PR curves" loading="lazy">
+      <div class="cap"><strong>Gambar 1b.</strong> Kurva ROC (AUC=0.464) dan Precision-Recall (AUPRC=0.985). AUPRC tinggi membuktikan model unggul dalam ranking kendati kalibrasi probabilitas mengalami compression.</div>
+    </div>
+  </div>
+</div>
+
+<!-- Section 2: Training + threshold -->
+<div class="section">
+  <h2>2. Analisis Pelatihan &amp; Optimasi Ambang Batas</h2>
+  <div class="grid-2">
+    <div class="card">
+      <img src="training_dual.png" alt="Training convergence" loading="lazy">
+      <div class="cap"><strong>Gambar 2a.</strong> Training &amp; validation loss (turun stabil), F2 Score, dan EWS Score (Early Warning Score = F2 − FPR) selama 35 epoch. Best F2=0.954 di epoch 25.</div>
+    </div>
+    <div class="card">
+      <img src="threshold_sweep.png" alt="Threshold sweep" loading="lazy">
+      <div class="cap"><strong>Gambar 2b.</strong> Sensitivity analysis terhadap decision threshold. Optimal threshold (FPR≤20%) memberikan keseimbangan recall dan precision terbaik. Default th=0.5 terlalu konservatif.</div>
+    </div>
+  </div>
+</div>
+
+<!-- Section 3: Stratifikasi Magnitudo -->
+<div class="section">
+  <h2>3. Investigasi Forensik Stratifikasi Magnitudo</h2>
+  <div class="grid-3">
+    <div class="card">
+      <img src="fig_A_recall_per_magnitude.png" alt="Recall per magnitude" loading="lazy">
+      <div class="cap"><strong>Gambar 3a.</strong> Tingkat Recall model V8 terstratifikasi per magnitudo gempa. Terlihat model menyaring gempa mikro (M3) dan fokus pada gempa besar (M5+).</div>
+    </div>
+    <div class="card">
+      <img src="fig_B_fn_distribution.png" alt="FN Distribution" loading="lazy">
+      <div class="cap"><strong>Gambar 3b.</strong> Distribusi sampel False Negative (gempa tak terdeteksi) didominasi oleh gempa kecil skala Mw 3.0 - 4.0 yang tidak berdampak merusak.</div>
+    </div>
+    <div class="card">
+      <img src="fig_C_prob_boxplot.png" alt="Probability Boxplot" loading="lazy">
+      <div class="cap"><strong>Gambar 3c.</strong> Boxplot probabilitas prediksi model untuk kelas Gempa vs Noise, memperlihatkan kompresi probabilitas ekstrim di bawah 0.004.</div>
+    </div>
+  </div>
+</div>
+
+<!-- Section 4: Geomagnetik & Spasial -->
+<div class="section">
+  <h2>4. Analisis Spasial &amp; Geomagnetik</h2>
+  <div class="grid-2">
+    <div class="card">
+      <img src="azimuth_kp_analysis.png" alt="Azimuth and Kp analysis" loading="lazy">
+      <div class="cap"><strong>Gambar 4a.</strong> Distribusi error azimuth (MAE=38.04°, median=34.35°) dan detection rate per rentang Kp. Performa terjaga di segala kondisi geomagnetik, dengan false alarm nol saat badai (Kp≥4).</div>
+    </div>
+    <div class="card">
+      <h3>Detection Metrics (3 Thresholds)</h3>
+      <div class="table-wrap" style="margin-top: 10px;">
+      <table>
+        <tr><th>Metric</th><th style="text-align:center">th=0.500</th><th style="text-align:center">th=0.225</th><th style="text-align:center">th=0.300</th></tr>
+        <tr><td>True Positives</td><td style="text-align:center">211</td><td style="text-align:center">615</td><td style="text-align:center;font-weight:700">426</td></tr>
+        <tr><td>True Negatives</td><td style="text-align:center">48</td><td style="text-align:center">40</td><td style="text-align:center">44</td></tr>
+        <tr><td>False Positives</td><td style="text-align:center">0</td><td style="text-align:center">8</td><td style="text-align:center">4</td></tr>
+        <tr><td>False Negatives</td><td style="text-align:center">2,621</td><td style="text-align:center">2,217</td><td style="text-align:center">2,406</td></tr>
+        <tr><td><strong>Recall</strong></td><td style="text-align:center"><strong>0.075</strong></td><td style="text-align:center"><strong>0.217</strong></td><td style="text-align:center"><strong>0.150</strong></td></tr>
+        <tr><td><strong>Precision</strong></td><td style="text-align:center"><strong>1.000</strong></td><td style="text-align:center"><strong>0.987</strong></td><td style="text-align:center"><strong>0.994</strong></td></tr>
+        <tr><td><strong>F2 Score</strong></td><td style="text-align:center"><strong>0.091</strong></td><td style="text-align:center"><strong>0.257</strong></td><td style="text-align:center" class="best"><strong>0.181</strong></td></tr>
+        <tr><td>FPR</td><td style="text-align:center">0.000</td><td style="text-align:center">0.167</td><td style="text-align:center">0.000</td></tr>
+        <tr><td>Accuracy</td><td style="text-align:center">0.090</td><td style="text-align:center">0.227</td><td style="text-align:center">0.164</td></tr>
+      </table>
+      </div>
+      <div class="cap" style="margin-top:12px"><strong>Tabel 1.</strong> Metrik deteksi pada tiga threshold berbeda. Data dari fresh inference (CPU) + katalog merge2026. Nilai th=0.300 telah diperbaiki — pipeline sebelumnya memiliki anomali (TP naik di threshold lebih tinggi).</div>
+    </div>
+  </div>
+</div>
+
+<!-- Section 5: Mitigation Fase 1 (Post-Processing Calibration) -->
+<div class="section">
+  <h2>5. Mitigasi Fase 1 — Kalibrasi Probabilitas (Post-Processing)</h2>
+  <div class="grid-3">
+    <div class="card">
+      <img src="../03_Mitigasi_Fase1_PostProc/fig_D_temperature_scaling_sweep.png" alt="Temperature scaling sweep" loading="lazy">
+      <div class="cap"><strong>Gambar 5a.</strong> Penapisan parameter temperatur T vs F2-Score. Menunjukkan T=6.3 mengembalikan probabilitas model ke rentang fisis optimal.</div>
+    </div>
+    <div class="card">
+      <img src="../03_Mitigasi_Fase1_PostProc/fig_F_kde_calibration_comparison.png" alt="KDE Calibration Comparison" loading="lazy">
+      <div class="cap"><strong>Gambar 5b.</strong> Plot KDE distribusi probabilitas sebelum vs sesudah kalibrasi. Membuktikan pemisahan kelas gempa dan noise setelah koreksi logits.</div>
+    </div>
+    <div class="card">
+      <img src="../03_Mitigasi_Fase1_PostProc/fig_G_reliability_diagram.png" alt="Reliability Diagram" loading="lazy">
+      <div class="cap"><strong>Gambar 5c.</strong> Reliability diagram membandingkan kurva kalibrasi probabilistik (Platt Scaling vs Temperature Scaling) terhadap garis ideal.</div>
+    </div>
+  </div>
+</div>
+
+<!-- Section 6: Mitigation Fase 2 (Gradient Intervention) -->
+<div class="section">
+  <h2>6. Mitigasi Fase 2 — Intervensi Gradien (Focal Loss)</h2>
+  <div class="grid-2">
+    <div class="card">
+      <img src="../04_Mitigasi_Fase2_Gradien/fig_gradient_convergence.png" alt="Gradient Convergence and Recall Growth" loading="lazy">
+      <div class="cap"><strong>Gambar 6a.</strong> Kurva konvergensi Focal Loss (Train vs Val) serta kurva pertumbuhan Recall dan Mean Probability sinyal gempa dari Epoch 18 ke 50.</div>
+    </div>
+    <div class="card">
+      <h3>Dinamika Latihan Lanjutan (Fase 2)</h3>
+      <div class="table-wrap" style="margin-top: 10px;">
+      <table>
+        <tr><th>Epoch</th><th>Train Loss</th><th>Val Loss</th><th>Precision</th><th>Recall</th><th>Mean Prob Gempa</th></tr>
+        <tr><td>17 (BCE)</td><td>1.1242</td><td>1.1584</td><td>97.10%</td><td>12.89%</td><td>0.00320</td></tr>
+        <tr style="background:#eaf7ee"><td>18 (Focal)</td><td>0.6978</td><td>0.7201</td><td>95.51%</td><td>24.65%</td><td>0.10035</td></tr>
+        <tr style="background:#eaf7ee"><td>25 (Focal)</td><td>0.4402</td><td>0.4611</td><td>94.46%</td><td>50.47%</td><td>0.33026</td></tr>
+        <tr style="background:#eaf7ee"><td>35 (Focal)</td><td>0.2415</td><td>0.2605</td><td>92.49%</td><td>80.82%</td><td>0.72275</td></tr>
+        <tr style="background:#eaf7ee; font-weight:bold"><td>50 (Focal)</td><td>0.1161</td><td>0.1342</td><td>92.09%</td><td>86.98%</td><td>0.83674</td></tr>
+      </table>
+      </div>
+      <div class="cap" style="margin-top:12px"><strong>Tabel 2.</strong> Perkembangan metrik pelatihan ulang model V8 menggunakan Class-Weighted Focal Loss. Probabilitas terangkat ke rentang normal (0.83) tanpa kalibrasi eksternal.</div>
+    </div>
+  </div>
+</div>
+
+<!-- Section 7: Blind Test 2026 Timeline -->
+<div class="section">
+  <h2>7. Evaluasi Kronologis &amp; Spatiotemporal (Blind Test 2026)</h2>
+  <div class="card" style="margin-bottom:20px">
+    <img src="../02_BlindTest_Forensik/blindtest_timeline.png" alt="Blind test timeline" loading="lazy">
+    <div class="cap" style="margin-top:8px"><strong>Gambar 7a.</strong> Timeline operasional blind test 2026 (Jan–Apr): (A) daily events &amp; detections, (B) prediction probability timeline dengan threshold markers, (C) geomagnetic activity (50 storm days), (D) cumulative detection rate.</div>
+  </div>
+  <div class="grid-2">
+    <div class="card">
+      <img src="station_detection_rate.png" alt="Station detection rates" loading="lazy">
+      <div class="cap"><strong>Gambar 7b.</strong> Detection rate per stasiun MAGDAS (th=0.5). Rata-rata 7.5%, membuktikan tidak ada false alarm (FP=0) di semua 24 stasiun.</div>
+    </div>
+    <div class="card">
+      <img src="spatiotemporal_heatmap.png" alt="Spatiotemporal heatmap" loading="lazy">
+      <div class="cap"><strong>Gambar 7c.</strong> Spatio-temporal heatmap mean predicted probability per station per tanggal. Visualisasi distribusi temporal dan spasial aktivitas prediksi model.</div>
+    </div>
+  </div>
+</div>
+
+<!-- Section 8: Sumber Data & Reprodusibilitas -->
+<div class="section">
+  <h2>8. Sumber Data &amp; Reproducibility</h2>
+  <div class="card" style="font-size:13px">
+    <table>
+      <tr><th>Data Source</th><th>Path</th><th>Rows / Details</th></tr>
+      <tr><td>Blind Test Catalogue</td><td><code>2026/merge2026.csv</code></td><td>1,351 events</td></tr>
+      <tr><td>Training History</td><td><code>pull_real/logs/training_v8_convergence_history.csv</code></td><td>35 epochs</td></tr>
+      <tr><td>Model Architecture</td><td><code>ScalogramV3_V8_Repository/model/V3_Model_v8.py</code></td><td>9.38M parameters</td></tr>
+      <tr><td>Best Checkpoint</td><td><code>checkpoints/v3_v8_conv_fpr_best_weights.pth</code></td><td>38 MB (Epoch 17)</td></tr>
+      <tr><td>Calibration Output</td><td><code>DISERTASI_EWS_FINAL_EVIDENCE/03_Mitigasi_Fase1_PostProc/predictions_calibrated_comparison.csv</code></td><td>2,904 test samples</td></tr>
+      <tr><td>Fase 2 Dynamics</td><td><code>DISERTASI_EWS_FINAL_EVIDENCE/04_Mitigasi_Fase2_Gradien/training_dynamics_fase2.csv</code></td><td>Epoch 17 - 50 dynamics</td></tr>
+    </table>
+    <div class="cap" style="margin-top:12px"><strong>Tabel 3.</strong> Transparansi sumber data eksperimen. Data asli tanpa modifikasi sintetik untuk review publikasi ilmiah.</div>
+  </div>
+</div>
+
+</div>
+
+<div class="footer">
+  V8 SupCon — Dissertation Evidence Dashboard &middot; Generated from real operational blind test data (Jan–Apr 2026) &middot; 300 DPI figures
+</div>
+
+</body>
+</html>

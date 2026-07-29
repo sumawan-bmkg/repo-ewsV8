@@ -1,0 +1,18 @@
+{
+  "total_samples": 2880,
+  "TP": 211,
+  "TN": 48,
+  "FP": 0,
+  "FN": 2621,
+  "Accuracy": 0.0899,
+  "Recall": 0.0745,
+  "Precision": 1.0,
+  "F1_Score": 0.1387,
+  "F2_Score": 0.0914,
+  "FPR": 0.0,
+  "Global_MAE_deg": 38.04,
+  "Trimmed_MAE_deg": 38.04,
+  "Storm_days": 50,
+  "Storm_FPR": 0.0,
+  "Threshold": 0.5
+}

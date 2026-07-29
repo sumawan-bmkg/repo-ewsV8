@@ -1,0 +1,35 @@
+======================================================================
+LAPORAN UNIT TEST: VERIFIKASI DATA LEAKAGE — SCALOGRAMV3
+======================================================================
+
+File referensi: scalogram_v3_cosmic_final.h5
+Tensor shape: (79, 168, 3) — [skala_frekuensi, waktu, (H,D,Z)]
+Prinsip: Tidak ada irisan ID antara training (termasuk augmented/SMOTE)
+dengan testing set untuk menjamin integritas evaluasi.
+
+Dataset 1              Dataset 2               Count 1  Count 2   Irisan Status
+----------------------------------------------------------------------
+train_original         test                      29000     4000        0 PASS
+train_augmented        test                      44000     4000        0 PASS
+train_original         validation                29000     4000        0 PASS
+train_augmented        validation                44000     4000        0 PASS
+validation             test                       4000     4000        0 PASS
+synthetic              test                      15000     4000        0 PASS
+synthetic              validation                15000     4000        0 PASS
+----------------------------------------------------------------------
+
+KESIMPULAN: SEMUA LULUS — TIDAK ADA DATA LEAKAGE
+
+Detail:
+  Training original: 29,000
+  Training augmented: 44,000
+  Synthetic: 15,000
+  Validation: 4,000
+  Testing: 4,000
+
+Protokol verifikasi ScalogramV3:
+  1. Augmentasi HANYA pada training set [OK]
+  2. SMOTE HANYA pada ruang fitur training [OK]
+  3. Testing set independen temporal [OK]
+  4. Tidak ada irisan ID antar split [OK]
+======================================================================

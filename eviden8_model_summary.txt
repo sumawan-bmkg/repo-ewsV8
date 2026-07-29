@@ -1,0 +1,1541 @@
+SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=SCALOGRAMV3 — ARSTEKTUR MODEL (ESTIMASI)
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+Input: (79, 168, 3) — Scalogram CWT [H,D,Z]
+
+ Layer                  Output Shape         Param #
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ InputLayer             (None, 79, 168, 3)     0
+ Lambda(Resize 240x240) (None, 240, 240, 3)    0
+ EfficientNetB1 (frozen) (None, 1280)         7,856,896 (frozen)
+ Dense_512 + BN + DO 0.3  (None, 512)        656,384
+ Dense_256 + BN + DO 0.35 (None, 256)        131,328
+ Dense_128 + BN + DO 0.4  (None, 128)        32,896
+ Dense_64 + DO 0.3        (None, 64)          8,256
+ Dense_1 (Sigmoid)        (None, 1)           65
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=
+ Total params: ~8,685,825
+ Trainable params: ~828,929 (9.5%)
+ Non-trainable params: ~7,856,896 (frozen backbone)
+ Input shape: (79, 168, 3)
+ Loss: Weighted Binary Cross-Entropy
+ Optimizer: Adam (lr=1e-4)
+ Version: ScalogramV3 (20 April 2026)
+=

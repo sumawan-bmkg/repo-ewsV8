@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "project": "ScalogramV3",
+    "nama_sistem": "SeismicPrecursorContinualLearning_ScalogramV3",
+    "versi": "3.0.0",
+    "deskripsi": "Sistem continual learning untuk ScalogramV3 berbasis EfficientNet-B1.\nInput tensor: (79, 168, 3) — CWT Morlet [H,D,Z].\nRetraining otomatis dipicu oleh threshold metrik.",
+    "rilis": "20 April 2026",
+    "penulis": "Tim ScalogramV3 — ITS & BMKG"
+  },
+  "retraining_triggers": {
+    "deskripsi": "Ambang batas yang memicu retraining otomatis",
+    "trigger_logic": "ANY (salah satu threshold memicu retraining)",
+    "cooldown_days": 14,
+    "metrics": {
+      "roc_auc": {
+        "threshold": 0.75,
+        "direction": "below",
+        "deskripsi": "ROC-AUC turun di bawah 0.75 -> retraining",
+        "evaluation_window_days": 7
+      },
+      "recall": {
+        "threshold": 0.7,
+        "direction": "below",
+        "deskripsi": "Recall prekursor turun di bawah 0.70 -> retraining",
+        "evaluation_window_days": 7
+      },
+      "f1_score": {
+        "threshold": 0.65,
+        "direction": "below",
+        "deskripsi": "F1-Score prekursor di bawah 0.65 -> retraining",
+        "evaluation_window_days": 14
+      },
+      "false_alarm_rate": {
+        "threshold": 0.3,
+        "direction": "above",
+        "deskripsi": "False alarm rate > 30% -> retraining",
+        "evaluation_window_days": 30
+      }
+    }
+  },
+  "retraining_parameters": {
+    "fine_tuning": {
+      "strategy": "partial",
+      "frozen_layers": [
+        "efficientnet_b1_backbone"
+      ],
+      "trainable_layers": [
+        "miniresnet_head",
+        "classification_head"
+      ]
+    },
+    "optimizer": {
+      "name": "Adam",
+      "learning_rate": 5e-05,
+      "weight_decay": 1e-06
+    },
+    "training": {
+      "max_epochs": 30,
+      "early_stopping_patience": 5,
+      "batch_size": 32,
+      "loss_function": "WeightedBinaryCrossEntropy(class_weight={0:0.12, 1:0.88})"
+    }
+  },
+  "data_buffer": {
+    "deskripsi": "Manajemen buffer untuk continual learning pasca-V3",
+    "total_capacity": 50000,
+    "composition": {
+      "new_data_ratio": 0.8,
+      "anchor_data_ratio": 0.2,
+      "anchor_description": "Data historis gempa signifikan M>=6.0 sebagai jangkar"
+    },
+    "rolling_window": {
+      "window_days": 180,
+      "stride_days": 30
+    }
+  },
+  "catastrophic_forgetting_mitigation": {
+    "strategies": [
+      {
+        "name": "Elastic Weight Consolidation (EWC)",
+        "lambda": 0.4,
+        "enabled": true
+      },
+      {
+        "name": "Learning Rate Decay",
+        "lr": 5e-05,
+        "enabled": true
+      },
+      {
+        "name": "Anchor Data Replay",
+        "ratio": 0.2,
+        "enabled": true
+      }
+    ]
+  },
+  "deployment": {
+    "server_spec": {
+      "min_ram_gb": 16,
+      "gpu": "NVIDIA T4+",
+      "storage_gb": 50
+    },
+    "monitoring_metrics": [
+      "ROC-AUC harian",
+      "Recall prekursor",
+      "False Alarm Rate"
+    ]
+  }
+}

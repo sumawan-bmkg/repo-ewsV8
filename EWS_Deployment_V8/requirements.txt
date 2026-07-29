@@ -1,0 +1,21 @@
+# =====================================================================
+# requirements.txt — EWS Gempa Bumi V8 SupCon (Produksi)
+# =====================================================================
+# Build oleh: build_deployment.py
+# Model: EfficientNet-B1 + Temperature Scaling (T=6.3)
+#
+# Instalasi:
+#   pip install -r requirements.txt
+# =====================================================================
+
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Komputasi Numerik
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Pemrosesan Data
+pandas>=2.0.0
+h5py>=3.8.0

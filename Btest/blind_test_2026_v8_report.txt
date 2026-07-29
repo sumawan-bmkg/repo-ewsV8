@@ -1,0 +1,37 @@
+=================================================================
+  2026 OPERATIONAL BLIND TEST REPORT — MODEL V8
+  Generated : 2026-06-18 10:16:58
+=================================================================
+
+  Evaluation Period  : Jan 01 – Apr 30, 2026
+  Model Checkpoint   : checkpoints/v3_v8_conv_fpr_best_weights.pth
+  Decision Threshold : 0.5
+  Total Samples      : 2880
+  Stations           : 24
+
+  CONFUSION MATRIX
+    True Positives  (TP) : 211
+    True Negatives  (TN) : 48
+    False Positives (FP) : 0
+    False Negatives (FN) : 2621
+
+  DETECTION METRICS
+    Accuracy             : 0.0899
+    Recall (Sensitivity) : 0.0745
+    Precision            : 1.0000
+    F1 Score             : 0.1387
+    F2 Score             : 0.0914
+    False Positive Rate  : 0.0000
+
+  SPATIAL METRICS
+    Global MAE           : 38.04°
+    Trimmed MAE          : 38.04°
+    (Anomaly stations excluded: PLU, TNT, LWK, SRO)
+    Trimmed ~45° target  : PASS
+
+  CRY WOLF MITIGATION
+    Storm days (Kp≥4)    : 50
+    Storm FPR            : 0.0000
+    Verdict              : ZERO FALSE ALARMS during storms
+
+=================================================================

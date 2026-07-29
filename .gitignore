@@ -1,0 +1,92 @@
+# ===================================================================
+# .gitignore — EWS Gempa Bumi V8 SupCon (Disertasi)
+# ===================================================================
+# Aturan untuk repositori riset doktoral.
+# File besar, cache, dan artefak sementara DIABAIKAN.
+# File bukti sidang (.png, .json, .csv, .py, .zip, .pth < 100 MB)
+# TETAP DILACAK.
+# ===================================================================
+
+# -------------------------------
+# 1. Dataset mentah (raw HDF5)
+# -------------------------------
+*.h5
+*.hdf5
+*.hdf
+
+# -------------------------------
+# 2. Python cache & bytecode
+# -------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# -------------------------------
+# 3. Virtual environment
+# -------------------------------
+.env
+venv/
+.venv/
+env/
+virtualenv/
+*.venv
+
+# -------------------------------
+# 4. OS files
+# -------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# -------------------------------
+# 5. IDE / editor config
+# -------------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -------------------------------
+# 6. Logs & temp artifacts
+# -------------------------------
+# Log runtime (bukan log metrik sidang .json)
+*.log
+tmp/
+temp/
+*.tmp
+
+# -------------------------------
+# 7. Jupyter checkpoints
+# -------------------------------
+.ipynb_checkpoints/
+
+# -------------------------------
+# 8. Git LFS pointer files
+#    (file .pth > 100 MB harus pakai Git LFS)
+#    Jika pakai LFS, file tetap terlacak via pointer.
+# -------------------------------
+# Catatan: file .pth di bawah 100 MB (contoh: 36 MB) tetap
+# dilacak langsung tanpa LFS. Hanya file > 100 MB butuh LFS.
+# Untuk aktivasi LFS: git lfs track "*.pth"
+
+# -------------------------------
+# 9. File yang TETAP DILACAK
+#    (tidak diabaikan — override jika terlanjur kena pattern di atas)
+# -------------------------------
+# Seluruh file bukti sidang berikut WAJIB masuk repositori.
+# Jika ada file yang terlanjur terignore karena pattern di atas,
+# gunakan git add --force atau hapus pattern yang relevan.
+#
+# *.png  → grafik bukti sidang (TP, FP, ROC, kalibrasi, dll.)
+# *.json → metrik forensik dan log evaluasi
+# *.csv  → tabel prediksi dan dinamika pelatihan
+# *.py   → seluruh skrip optimasi dan evaluasi
+# *.zip  → arsip kompresi bukti final
+# *.pth  → bobot model (pastikan < 100 MB sebelum commit)
+# *.docx → naskah disertasi bab
+# *.md   → dokumentasi dan laporan

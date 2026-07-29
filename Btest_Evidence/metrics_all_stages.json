@@ -1,0 +1,68 @@
+{
+  "optimal_threshold": 0.22500000000000003,
+  "best_f2": 0.2573006436788214,
+  "stage1_optimal": {
+    "TP": 615,
+    "TN": 40,
+    "FP": 8,
+    "FN": 2217,
+    "Accuracy": 0.2274,
+    "Precision": 0.9872,
+    "Recall": 0.2172,
+    "Specificity": 0.8333,
+    "F2_Score": 0.2573,
+    "AUPRC": 0.9848,
+    "AUC_ROC": 0.464,
+    "Threshold": 0.5
+  },
+  "stage1_default": {
+    "TP": 211,
+    "TN": 48,
+    "FP": 0,
+    "FN": 2621,
+    "Accuracy": 0.0899,
+    "Precision": 1.0,
+    "Recall": 0.0745,
+    "Specificity": 1.0,
+    "F2_Score": 0.0914,
+    "AUPRC": 0.9848,
+    "AUC_ROC": 0.464,
+    "Threshold": 0.5
+  },
+  "stage2_3": {
+    "Az_MAE_Global_deg": 38.04,
+    "Az_MAE_Trimmed_deg": 38.04,
+    "Mag_MAE_Mw": 4.267,
+    "Dist_MAE_km": 1668.2,
+    "Depth_MAE_km": 54.1
+  },
+  "stage4": {
+    "Spearman_rho_all": 0.0342,
+    "Spearman_p_all": 0.069059,
+    "Spearman_rho_TP": 0.0342,
+    "Spearman_p_TP": 0.069059,
+    "n_pairs": 2832,
+    "n_pairs_TP": 2832,
+    "median_strain_ratio": 0.0519
+  },
+  "stage5": {
+    "mean_lead_days": 0.0,
+    "median_lead_days": 0.0,
+    "std_lead_days": 0.0,
+    "mean_lead_in_window": 0.0,
+    "n_valid": 615,
+    "n_in_window": 615,
+    "min_lead": 0.0,
+    "max_lead": 0.0
+  },
+  "storm": {
+    "Storm_days": 50,
+    "Storm_samples": 1200,
+    "Storm_TP": 0,
+    "Storm_TN": 24,
+    "Storm_FP": 0,
+    "Storm_FN": 1176,
+    "Storm_FPR": 0.0,
+    "Storm_Verdict": "ZERO FALSE ALARMS"
+  }
+}
